@@ -1,0 +1,24 @@
+.textos1{
+    font-weight: bold !important;
+    text-emphasis-color: rgb(255, 179, 80);
+    color: rgb(255, 179, 80);
+    
+ }
+ 
+ .imagem{
+     background-image: url("https://i.imgur.com/VrPPSVv.png");
+     background-repeat: no-repeat;
+     width: 100vh;
+     min-height: 100vh;
+     background-size: cover;
+     background-position: center;
+ }
+ 
+ .text-decorator-none{
+     text-decoration: none;
+ }
+
+ .botao{
+    background-color: rgb(68, 96, 55)!important;
+ }
+
