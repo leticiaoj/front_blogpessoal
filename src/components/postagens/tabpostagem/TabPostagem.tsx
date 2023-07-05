@@ -17,7 +17,7 @@ function TabPostagem() {
         <AppBar position="static">
           <Tabs centered onChange={handleChange}  className='bar'>
             <Tab label="Todas as postagens" value="1"/>
-            <Tab label="Sobre-nós" value="2" />
+            <Tab label="Sobre nós" value="2" />
           </Tabs>
         </AppBar>
         <TabPanel value="1" >
@@ -27,7 +27,7 @@ function TabPostagem() {
         </TabPanel>
         <TabPanel value="2">
           <Typography variant="h5" gutterBottom color="textPrimary" component="h5" align="center" className="titulo">Sobre-nós</Typography>
-          <Typography variant="body1" gutterBottom color="textPrimary" align="justify">O Psitalk é um blog aberto para discutir questões que envolvem a tutoria de pássaros. Devido à impopularidade de aves como pets, é mais difícil encontrar informações úteis para a criação deles do que para bichinhos mais populares, como cachorros e gatos. Com base nisso, o Psitalk tem a proposta de ser um blog no qual tutores de aves podem compartilhar informações úteis que possam ajudar outros criadores.</Typography>
+          <Typography variant="body1" gutterBottom color="textPrimary" align="justify">O Psitalks é um blog aberto para discutir questões que envolvem a tutoria de pássaros. Devido à impopularidade de aves como pets, é mais difícil encontrar informações úteis para a criação deles do que para bichinhos mais populares, como cachorros e gatos. Com base nisso, o Psitalks tem a proposta de ser um blog no qual tutores de aves podem compartilhar informações úteis que possam ajudar outros criadores.</Typography>
         </TabPanel>
       </TabContext>
     </>
