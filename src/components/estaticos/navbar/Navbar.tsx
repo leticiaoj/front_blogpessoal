@@ -40,7 +40,7 @@ function Navbar() {
                 <Toolbar className='nav' variant="dense">
                     <Box className='cursor' marginRight={24} marginLeft={5}>
                         <Typography variant="h5" color="inherit">
-                            Psitalk
+                            Psitalks
                         </Typography>
                     </Box>
                     <Box display="flex" justifyContent="start">
