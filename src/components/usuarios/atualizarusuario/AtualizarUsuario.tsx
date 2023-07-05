@@ -155,7 +155,7 @@ function AtualizarUsuario() {
                             value={user.nome}
                             onChange={(e: ChangeEvent<HTMLInputElement>) => updatedUsuario(e)}
                             id="nome"
-                            label="nome"
+                            label="Nome"
                             variant="outlined"
                             name="nome"
                             margin="normal"
@@ -167,7 +167,7 @@ function AtualizarUsuario() {
                             value={user.usuario}
                             onChange={(e: ChangeEvent<HTMLInputElement>) => updatedUsuario(e)}
                             id="usuario"
-                            label="usuario"
+                            label="Usuário"
                             variant="outlined"
                             name="usuario"
                             margin="normal"
@@ -179,7 +179,7 @@ function AtualizarUsuario() {
                             value={user.foto}
                             onChange={(e: ChangeEvent<HTMLInputElement>) => updatedUsuario(e)}
                             id="foto"
-                            label="foto"
+                            label="Foto"
                             variant="outlined"
                             name="foto"
                             margin="normal"
@@ -190,7 +190,7 @@ function AtualizarUsuario() {
                             value={user.senha}
                             onChange={(e: ChangeEvent<HTMLInputElement>) => updatedUsuario(e)}
                             id="senha"
-                            label="senha"
+                            label="Senha"
                             variant="outlined"
                             name="senha"
                             margin="normal"
@@ -203,7 +203,7 @@ function AtualizarUsuario() {
                             value={confirmarSenha}
                             onChange={(e: ChangeEvent<HTMLInputElement>) => confirmarSenhaHandle(e)}
                             id='confirmarSenha'
-                            label='confirmarSenha'
+                            label='Confirmar senha'
                             variant='outlined'
                             name='confirmarSenha'
                             margin='normal'
