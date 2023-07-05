@@ -62,7 +62,7 @@ function Listapost() {
             <Card >
               <CardContent>
                 <Typography color="textSecondary" gutterBottom>
-                  Postagens
+                  Postagem
                 </Typography>
                 <Typography variant="h5" component="h2">
                   {post.titulo}
