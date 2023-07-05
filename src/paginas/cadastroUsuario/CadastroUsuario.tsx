@@ -123,7 +123,7 @@ function CadastroUsuario() {
                             value={user.nome}
                             onChange={(e: ChangeEvent<HTMLInputElement>) => updatedModel(e)}
                             id='nome'
-                            label='nome'
+                            label='Nome'
                             variant='outlined'
                             name='nome'
                             margin='normal'
@@ -134,7 +134,7 @@ function CadastroUsuario() {
                             value={user.usuario}
                             onChange={(e: ChangeEvent<HTMLInputElement>) => updatedModel(e)}
                             id='usuario'
-                            label='usuario'
+                            label='Usuário'
                             variant='outlined'
                             name='usuario'
                             margin='normal'
@@ -144,7 +144,7 @@ function CadastroUsuario() {
                             value={user.foto}
                             onChange={(e: ChangeEvent<HTMLInputElement>) => updatedModel(e)}
                             id='foto'
-                            label='foto'
+                            label='Foto'
                             variant='outlined'
                             name='foto'
                             margin='normal'
@@ -155,7 +155,7 @@ function CadastroUsuario() {
                             value={user.senha}
                             onChange={(e: ChangeEvent<HTMLInputElement>) => updatedModel(e)}
                             id='senha'
-                            label='senha'
+                            label='Senha'
                             variant='outlined'
                             name='senha'
                             margin='normal'
@@ -167,7 +167,7 @@ function CadastroUsuario() {
                             value={confirmarSenha}
                             onChange={(e: ChangeEvent<HTMLInputElement>) => confirmarSenhaHandle(e)}
                             id='confirmarSenha'
-                            label='confirmarSenha'
+                            label='Confirme a senha'
                             variant='outlined'
                             name='confirmarSenha'
                             margin='normal'
