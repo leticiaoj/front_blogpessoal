@@ -203,7 +203,7 @@ function AtualizarUsuario() {
                             value={confirmarSenha}
                             onChange={(e: ChangeEvent<HTMLInputElement>) => confirmarSenhaHandle(e)}
                             id='confirmarSenha'
-                            label='Confirmar senha'
+                            label='Confirme a senha'
                             variant='outlined'
                             name='confirmarSenha'
                             margin='normal'
