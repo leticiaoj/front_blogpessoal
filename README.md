@@ -1,3 +1,6 @@
-# front_blogpessoal
-Front-end de um Blog Pessoal desenvolvido durante o Bootcamp "Pessoa Desenvolvedora Web Full Stack", da Generation Brasil.
+# Front-end do Blog Pessoal Psitalks
+Tecnologias usadas:
+🦜
+🦜
+🦜
 ![alt text](https://i.imgur.com/a6fI12E.png)
