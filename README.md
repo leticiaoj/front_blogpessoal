@@ -1,4 +1,4 @@
-# Front-end do Blog Pessoal "Psitalks" 🦜
+# Front-end do Blog Pessoal "Psitalks" 🐦
 Projeto criado utilizando:
 <p>🦜TypeScript</p>
 <p>🦜React</p>
