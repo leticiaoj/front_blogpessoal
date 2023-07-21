@@ -4,4 +4,4 @@ Projeto criado utilizando:
 <p>🦜React</p>
 <p>🦜Material UI</p>
 
-![alt text](https://i.imgur.com/a6fI12E.png)
+![alt text](https://i.imgur.com/k5Tl1d2.png)
